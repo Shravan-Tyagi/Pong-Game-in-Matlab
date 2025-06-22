@@ -10,6 +10,7 @@ How to run this game:
 3. Run the script to play the game :)
 
 ![alt text](Screenshot1.png)
+![alt text](Screenshot2.png)
 
 
 [Note: Game has many glitches, if rockstar wants to buy or modify this game, paypal me 1.2 million USD (Paypal ID: shravanrocks125@gmail.com]
