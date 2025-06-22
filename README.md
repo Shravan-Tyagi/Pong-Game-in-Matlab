@@ -9,4 +9,8 @@ How to run this game:
 2. Open Pong_game_final.m in matlab editor
 3. Run the script to play the game :)
 
+![Screenshot (931)](https://github.com/user-attachments/assets/1ebf4c2e-a8cd-4194-80b1-29d2873daa0b)
+![alt text]()
+
+
 [Note: Game has many glitches, if rockstar wants to buy or modify this game, paypal me 1.2 million USD (Paypal ID: shravanrocks125@gmail.com]
