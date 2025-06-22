@@ -10,6 +10,7 @@ How to run this game:
 3. Run the script to play the game :)
 
 ![alt text](Screenshot1.png)
+
 ![alt text](Screenshot2.png)
 
 
